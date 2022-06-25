@@ -1,4 +1,4 @@
-# Softuni_Programming_Fundamentals_With_C_Sharp
+# Softuni_Programming_Fundamentals_With_C#
 This is a repository where I upload all my exercises, exams and certificates from the Programming basics module in Software University ( Sofia, Bulgaria ).
 
 Programming Fundamentals Mid Exam - 300/300 points.
