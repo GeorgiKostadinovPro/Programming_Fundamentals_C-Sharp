@@ -42,7 +42,6 @@ namespace _05_ShoppingSpree
             string[] peopleInfo = Console.ReadLine()
                 .Split(';', StringSplitOptions.RemoveEmptyEntries);
 
-
             string[] productsInfo = Console.ReadLine()
                .Split(';', StringSplitOptions.RemoveEmptyEntries);
 
@@ -57,8 +56,6 @@ namespace _05_ShoppingSpree
                 Person person = new Person(name, money);
                 people.Add(person);
             }
-
-
 
             for (int i = 0; i < productsInfo.Length; i++)
             {
@@ -101,7 +98,6 @@ namespace _05_ShoppingSpree
                             Console.WriteLine($"{person.Name} can't afford {product.Name}");
                         }
                     }
-
                 }
             }
 
