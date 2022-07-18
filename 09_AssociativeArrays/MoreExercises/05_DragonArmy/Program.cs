@@ -4,9 +4,9 @@ using System.Linq;
 
 namespace _05_DragonArmy
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Dictionary<string, Dictionary<string, List<double>>> dragons =
                 new Dictionary<string, Dictionary<string, List<double>>>();
