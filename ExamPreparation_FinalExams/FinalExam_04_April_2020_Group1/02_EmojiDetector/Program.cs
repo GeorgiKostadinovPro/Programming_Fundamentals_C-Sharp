@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace EmojiDetector
+namespace _02_EmojiDetector
 {
     public class Program
     {
