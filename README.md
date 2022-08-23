@@ -31,4 +31,3 @@ Topics:
 Sertificate:
 
 ![Programming Fundamentals with C# - January 2022 - Certificate](https://user-images.githubusercontent.com/72508846/175771320-cea1f4b1-867f-4ecf-b805-169f5517686b.jpeg)
-
