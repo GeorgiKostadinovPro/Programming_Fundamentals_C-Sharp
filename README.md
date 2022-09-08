@@ -1,4 +1,4 @@
-# Softuni_Programming_Fundamentals_With_C#
+# Softuni_Programming_Fundamentals_With_C# - January 2022
 This is a repository where I upload all my exercises, exams and certificates from the Programming Fundamentals module in Software University ( Sofia, Bulgaria ).
 
 Programming Fundamentals Mid Exam - 300/300 points.
